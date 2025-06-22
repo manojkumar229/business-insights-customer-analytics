@@ -34,7 +34,7 @@ To provide stakeholders with actionable insights by analyzing:
 
 | File | Description |
 |------|-------------|
-| `project.pbix` | Power BI report file |
+| `Customer_Analytics_Dashboard.zip` | Power BI report file |
 | `README.md` | Project overview and documentation |
 
 ---
